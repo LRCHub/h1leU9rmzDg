@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "すべてがそこにありますように｡[Instrumental]",
+  "base_artist": "THE SPELLBOUND",
+  "createdAt": "2026-02-08T15:11:42.451956Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すべてがそこにありますように。",
+      "artist": "THE SPELLBOUND",
+      "has_synced": false,
+      "path": "select/pl_01_すべてがそこにありますように。_THE_SPELLBOUND.txt"
+    }
+  ]
+}
